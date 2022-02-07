@@ -1,0 +1,48 @@
+container {
+  display: block;
+  margin: 15px;
+  width: auto;
+  height: auto;
+  clear:both;
+}
+
+.header {
+  display:grid;
+  clear:both;
+}
+.box {
+  display:block;
+  width: 200px;
+  height:300px;
+  margin:15px;
+  float:left;
+  background-color: yellow;
+}
+.text{
+  display:block;
+float:right;
+width: 1100px;
+height: auto;
+margin:15px;
+position: relative;
+}
+.text2{
+  display:block;
+  clear:both;
+  float:left;
+  width: 1100px;
+  height: auto;
+  margin:15px;
+  position:relative;
+  
+
+}
+.box2 {
+  display:block;
+  width: 200px;
+  height:300px;
+  margin:15px;
+  float:right;
+  background-color: yellow;
+
+}
